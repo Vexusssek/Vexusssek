@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Dominik Zaręba — Web, gry i automatyzacja">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#172838"/></linearGradient><linearGradient id="line"><stop stop-color="#69E1CE"/><stop offset="1" stop-color="#A8AEFF"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#D2E6F4" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="310" rx="20" fill="url(#bg)"/><rect width="1200" height="310" rx="20" fill="url(#grid)"/>
+<path d="M56 54H112" stroke="#69E1CE" stroke-width="5" stroke-linecap="round"/>
+<text x="56" y="112" fill="#9BB0C6" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" letter-spacing="3">PROGRAMOWANIE I PROJEKTY</text>
+<text x="54" y="181" fill="#F5F8FC" font-family="DejaVu Sans,Arial,sans-serif" font-size="57" font-weight="700">Dominik Zaręba</text>
+<text x="56" y="231" fill="#BDD0E3" font-family="DejaVu Sans,Arial,sans-serif" font-size="23">Aplikacje webowe · Gry · Automatyzacja</text>
+<g transform="translate(900 67)" fill="none" stroke-width="2"><rect x="0" y="0" width="220" height="176" rx="14" stroke="#46566C" fill="#162333"/><path d="M0 36H220" stroke="#46566C"/><circle cx="20" cy="18" r="3" fill="#69E1CE"/><circle cx="34" cy="18" r="3" fill="#9CA6FF"/><circle cx="48" cy="18" r="3" fill="#8094AE"/><path d="M63 73L39 96L63 119M157 73L181 96L157 119M123 62L97 132" stroke="url(#line)" stroke-linecap="round" stroke-linejoin="round"/><path d="M53 154H167" stroke="#46566C" stroke-linecap="round"/></g>
+</svg>
